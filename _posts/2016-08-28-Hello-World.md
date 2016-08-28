@@ -4,6 +4,8 @@ title: Al-Qaum will one day return to Earth…
 description: "First things first"
 modified: 2016-08-28
 tags: [hello world, polytheism]
+image:
+  feature: header01.jpg
 ---
  
 ## …to wreak terrible vengeance on the non-believers.
