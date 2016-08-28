@@ -11,14 +11,14 @@ url:
 owner:
   name:           Chris Tappin
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            “Computer Forensics / Incident Response consultant.  Likes music, comedy, offensive pub quiz team names”
+  email:          chris.tappin@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        ChrisTappin
   facebook:       
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin:       ChrisTappin
   instagram:      
   flickr:         
   tumblr:         
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Sydney
 future:      true
 highlighter: rouge
 markdown:    kramdown
